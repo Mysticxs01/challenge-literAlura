@@ -18,5 +18,10 @@
 - **Spring Boot**
 - **PostgreSQL**
 
+## Instrucciones de Uso
+- Ejecuta la clase principal LiterAluraApplication.
+- Selecciona una opción del menú.
+
 ## Autora
 Angie Vargas
+
